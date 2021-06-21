@@ -1,0 +1,6 @@
+**/.DS_store
+**/*model
+**/*games
+**/*html
+.vscode
+__pycache__
